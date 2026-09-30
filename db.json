@@ -1,0 +1,65 @@
+{
+  "items": [
+    {
+      "name": "Hp laptop",
+      "category": "Electronics",
+      "description": "HP laptop suitable for study, coding and daily use.good condition",
+      "price": "500",
+      "location": "kakkanad",
+      "ownerName": "Adhun",
+      "available": true,
+      "image": "https://res.cloudinary.com/aaxbet7c/image/upload/v1790766919/hglaxgxhplhxeppr1ykb.jpg",
+      "id": "yxQ_MFggnDA"
+    }
+  ],
+  "users": [
+    {
+      "name": "Adhun",
+      "email": "adhunprasanth99@gmail.com",
+      "password": "7890",
+      "id": "Abnlsjz5sUo"
+    },
+    {
+      "name": "abhi",
+      "email": "abhi@gmail.cpm",
+      "password": "565656",
+      "id": "rhfQJ98FMeo"
+    },
+    {
+      "name": "Abhijith sukumaran",
+      "email": "abhi23@gmail.com",
+      "password": "565656",
+      "id": "B7eZfH3SXak"
+    },
+    {
+      "name": "sugu",
+      "email": "sugu123@gmail.com",
+      "password": "12345",
+      "id": "QI2flIP86pg"
+    }
+  ],
+  "borrowRequests": [
+    {
+      "itemId": null,
+      "itemName": "canon camera",
+      "borrowerName": "Adhun prasanth",
+      "fromDate": "2026-09-30",
+      "toDate": "2026-10-01",
+      "message": "to shoot save the date",
+      "status": "Accepted",
+      "id": "e2d18adJtZ0"
+    },
+    {
+      "itemId": null,
+      "itemName": "Hp laptop",
+      "ownerName": "Abhijith sukumaran",
+      "borrowerName": "sugu",
+      "fromDate": "2026-09-30",
+      "toDate": "2026-10-02",
+      "message": "study",
+      "status": "Returned",
+      "id": "sk3ZuHDvesw"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
