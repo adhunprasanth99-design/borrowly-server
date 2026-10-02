@@ -1,17 +1,5 @@
 {
-  "items": [
-    {
-      "name": "Hp laptop",
-      "category": "Electronics",
-      "description": "HP laptop suitable for study, coding and daily use.good condition",
-      "price": "500",
-      "location": "kakkanad",
-      "ownerName": "Adhun",
-      "available": true,
-      "image": "https://res.cloudinary.com/aaxbet7c/image/upload/v1790766919/hglaxgxhplhxeppr1ykb.jpg",
-      "id": "yxQ_MFggnDA"
-    }
-  ],
+  "items": [],
   "users": [
     {
       "name": "Adhun",
